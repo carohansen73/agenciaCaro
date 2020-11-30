@@ -1,0 +1,51 @@
+body {
+    background-color: ghostwhite;
+    color: black;
+}
+
+h1 {
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'CountryBlueprint', 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: #003333;
+}
+
+.titulo {
+    background-color: teal;
+    color: white;
+    border-bottom-style: dashed;
+    border-bottom-color: teal;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+.titulodark {
+    /*background-color: #343a40;*/
+    background-color: gold;
+    border-color: #454d55;
+    border-bottom: 2px solid #dee2e6;
+    color: black;
+}
+
+.centrar {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+h5 {
+    display: flex;
+    justify-content: center;
+}
+
+.detalle {
+    margin-top: 40px;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 15px;
+    background: #FFEB81;
+    /*background-color: #28a745;*/
+}
