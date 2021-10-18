@@ -13,7 +13,7 @@
                 <tr>
                     <th scope="col">ID</th>
                     <th scope="col">Nombre</th>
-                    <th scope="col">Informacion</th>
+                    <th scope="col">Informacion m22</th>
                 </tr>
             </thead>
             <tbody>
